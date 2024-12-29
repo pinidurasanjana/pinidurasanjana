@@ -1,4 +1,4 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<table width="100%" >
+<table width="100%" align="center">
 
  <tr>
     <td width="80%">
@@ -36,11 +36,7 @@
 </p>
      
 </td>
-    <td>
-
-<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-     
-  </td>
+ 
  </tr>
 </table>
 
