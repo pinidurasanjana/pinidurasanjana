@@ -7,7 +7,9 @@
 <div align="left">
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+---
+      
 <br>
 
 <h3 align="center" >A passionate frontend developer from Sri Lanka</h3>
@@ -15,8 +17,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pinidurasanjana&label=Profile%20views&color=2d83b9&style=flat" alt="pinidurasanjana" /> </p>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+
+---
 
 <table width="100%" align="center">
 
@@ -41,7 +43,9 @@
 </table>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+---
+     
 <br>
 
 <h3 align="center">My Statistics:</h3>
@@ -73,7 +77,9 @@
 </table>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+---
+           
 <br>
 
 <h3 align="center">Connect with me:</h3>
@@ -83,7 +89,9 @@
 </p>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+---
+          
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -100,5 +108,7 @@
 </p>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+
+---
+          
 <br>
